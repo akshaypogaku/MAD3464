@@ -18,7 +18,7 @@ public class Employeemanagementsystem {
         
         Employee e1 =new Employee();
         
-        e1.setEmployeeId(1);
+       /*e1.setEmployeeId(1);
         e1.setEmployeeName("Akshay");
         e1.salary=12220;
         
@@ -27,7 +27,7 @@ public class Employeemanagementsystem {
         e2.salary =12220;
         e2.display();
         
-        Employee 
+        Employee */
         
     }
     
