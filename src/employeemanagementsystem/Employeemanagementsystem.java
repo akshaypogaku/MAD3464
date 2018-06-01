@@ -26,8 +26,9 @@ public class Employeemanagementsystem {
         e2.employeeName="Akshay";
         e2.salary =12220;
         e2.display();
-        
-        Employee */
+        */
+       Arithmetic arithmetic = new Arithmetic();
+       System.out.println(arithmetic.sum(10,100));
         
     }
     
